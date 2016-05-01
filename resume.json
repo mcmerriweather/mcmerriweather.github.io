@@ -1,0 +1,77 @@
+{
+  "basics": {
+    "name": "Melissa Merriweather",
+    "label": "",
+    "picture": "",
+    "email": "mcmerriweather@gmail.com",
+    "phone": "+49 0157-3809-5791",
+    "website": "mcmerriweather.github.io",
+    "summary": "",
+    "location": {
+      "address": "Schonensche Straße 30",
+      "postalCode": "13189",
+      "city": "Berlin",
+      "countryCode": "DE"
+    }
+  },
+  "work": [{
+    "company": "Ferndale Public Schools",
+    "position": "Substitute Teacher",
+    "startDate": "2012-03-01",
+    "endDate": "2014-06-01",
+    "summary": "",
+    "highlights": [
+      "Taught as many as 30 elementary students following established lesson plans.",
+      "Assisted in all aspects of maintaining a professional front office, including but not limited to, fielding and directing incoming phone calls to the appropriate staff member in a timely, professional manner."
+    ]
+  }],
+  "volunteer": [{
+    "organization": "Detroit Institute of Arts",
+    "position": "Volunteer",
+    "website": "",
+    "startDate": "2011-01-01",
+    "endDate": "2011-01-01",
+    "summary": "",
+    "highlights": [
+      ""
+    ]
+  }],
+  "education": [{
+    "institution": "Alice Salomon University of Applied Sciences",
+    "area": "Intercultural Conflict Management",
+    "studyType": "Master",
+    "startDate": "2014-10-01",
+    "endDate": "2016-03-01",
+    "gpa": "",
+    "courses": [
+    ]
+  }],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Beginner",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Photoshop"
+      ]
+    },
+    {
+      "name": "Design",
+      "level": "Intermediate",
+      "keywords": [
+        "Adobe Photoshop"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "level": "Native speaker"
+    },
+    {
+      "name": "German",
+      "level": "Beginner (A2)"
+    }
+  ]
+}
